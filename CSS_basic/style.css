@@ -1,3 +1,4 @@
+/* * here, means star, and represents all elements in html document */
 * {
   margin: 0;
   padding: 0;
@@ -54,6 +55,7 @@ a {
   width: 300px;
 }
 
+/* It's only for h2, inside id-your-name */
 #your-name h2 {
   color: olivedrab;
 }
